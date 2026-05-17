@@ -19,14 +19,14 @@ const ruObj = {
     visibleName: "RU"
 }
 const lvObj = {
-    name: "lv",
-    imgLink: "assets/lv.svg",
+    name: "en",
+    imgLink: "assets/us.svg",
     number: 3,
     visibleName: "LV"
 }
 const deObj = {
-    name: "de",
-    imgLink: "assets/de.svg",
+    name: "en",
+    imgLink: "assets/us.svg",
     number: 4,
     visibleName: "DE"
 }
