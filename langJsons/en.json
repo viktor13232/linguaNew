@@ -1,0 +1,58 @@
+{
+    "emailLang": "Email",
+    
+    "head": {
+        "topNav_courses": "Courses",
+        "topNav__coursesLanguage": "Language",
+        "topNav__coursesMusic": "Music",
+        "topNav__myApproach": "My Approach",
+        "topNav__aboutMe": "About Me",
+        "topNav__FAQ": "FAQ",
+        "topNav__contactMe": "Contact Me",
+        "hero__h4One": "Your Learning Journey",
+        "hero__h4Two": "Music and Language Courses",
+        "hero__apply": "Apply"
+    },
+
+    "introduction": {
+        "introduction__h2": "Welcome to LanaLingo",
+        "introduction__p": "Music and language courses offer a powerful way to expand both creativity and communication skills. Learning music sharpens listening, memory, and emotional expression, while studying a new language opens doors to different cultures and ways of thinking. Together, they build confidence, improve cognitive abilities, and create opportunities for personal and professional growth."
+    },
+
+    "offer": {
+        "offer__h2": "What I Offer",
+        "offer__p": "At LanaLingo, I offer personalized music and language courses designed to meet your unique learning style and goals. Whether you're a beginner looking to explore a new language or an aspiring musician seeking to enhance your skills, my courses provide engaging and interactive lessons that foster creativity, confidence, and cultural understanding. Join me on this exciting journey of discovery and growth!"
+    },
+
+    "musicLangCards": {
+        "mlCards__musicH2": "Music",
+        "mlCards__musicP": "Learn the fundamentals of music theory and practice.",
+        "mlCards__languageH2": "Language",
+        "mlCards__languageP": "Immerse yourself in a new language and culture."
+    },
+
+    "steps": {
+        "steps__h2": "How It Works",
+        "steps__cardOneP": "Create an account and choose your desired course.",
+        "steps__cardTwoP": "Receive customized lessons based on your goals and learning style.",
+        "steps__cardThreeP": "Engage in live sessions with me for real-time feedback and support."
+
+    },
+
+    "testimonial": {
+        "testimonial__h2": "What Students Say"
+    },
+
+    "footer": {
+        "footer__home": "Home"
+    },
+
+    "aboutMePage": {
+        "aboutMePage__H2": "Hi!",
+        "aboutMePage__P1": "I’m Lana, and I’m happy to guide students on their language and music learning journey. I’ve been teaching German, Latvian, and Russian for many years, along with the basics of music education — theory, solfeggio, and beginner piano.",
+        "aboutMePage__P2": "Over the years, I’ve had the pleasure of helping learners of all ages and backgrounds succeed, no matter their starting point. I believe that learning works best when it’s personalized — based on each student’s goals, interests, and learning style. Together, we find the tools and methods that make learning clear, engaging, and effective.",
+        "aboutMePage__P3": "While I don’t hold a formal linguistics degree, my years of hands-on experience and deep understanding of the subjects I teach allow me to be a supportive and effective tutor. I use trusted teaching methods tailored to modern needs to make the process relevant and inspiring.",
+        "aboutMePage__P4": "I earned my higher education in Germany, where I also taught Russian and music to German students. This experience deepened my appreciation for intercultural communication and personal connection in education."
+    }
+
+}

@@ -1,0 +1,63 @@
+{
+    "emailLang": "E-pasts",
+    
+    "heroSection": {
+        "heroApply": "Pieteikties",
+        "heroCredo": "Jūsu mācību ceļojums"
+    },
+
+    "topNavSection": {
+        "topNavAboutMe": "Par mani",
+        "topNavMyApproach": "Mans piegājiens",
+        "topNavWhyMe": "Kāpēc es?",
+        "topNavLearningProcess": "Mācību process",
+        "topNavContactMe": "Sazināties ar mani"
+                    },
+    
+    "aboutMeSection": {
+        "aboutMeHi": "Sveiki!",
+        "aboutMeColumnOne": "Es esmu Lana, un es esmu priecīga palīdzēt studentiem viņu valodu un mūzikas mācību ceļojumā. Es mācīju vācu, latviešu un krievu valodas jau daudzus gadus, kā arī mūzikas izglītības pamatus — teoriju, solfēdžio un sākotnējo piano.",
+        "aboutMeColumnTwo": "Gadu gaitā es biju priecīga palīdzēt mācīties visiem vecumiem un fona studentiem sasniegt panākumus, neatkarīgi no viņu sākuma līmeņa. Es ticu, ka mācīšanās darbojas labāk, kad tā ir personalizēta — balstoties uz katru studentu mērķiem, interesēm un mācīšanās stilu. Kopā mēs atradam rīkus un metodes, kas padara mācīšanās procesu skaidru, ieinteresējošu un efektīvu.",
+        "aboutMeColumnThree": "Lai gan es nesavam oficiālo lingvistikas diplomu, mani gadi praktiskajā pieredzē un dziļa saprotamais par tēmām, kuras es māku, ļauj man būt atbalstošam un efektīvam pedagogam. Es izmantoju uzticamus mācīšanās metodes, pielagrādotas modernajiem vajadzībām, lai padarītu procesu aktuālu un visspirdzinošu.",
+        "aboutMeColumnFour": "Es ieguvu augstskolas izglītību Vokarijum, kur arī mĀku krievu valodu un mūziku vokariju studentiem. Šis pieredze dziļinie mana vērtējums par starptautisko komunikaciju un personisko saziņu izglītībā."
+    },
+
+    "myApproachSection": {
+        "myApproachHeading": "Mans piegājiens",
+        "myApproachColumnOne": "Personalizēts mācību plāns - no pirmās tikšanās līdz pārliecinošiem rezultātiem",
+        "myApproachColumnTwo": "Individuālas nodarbības, pielāgotas katra studenta līmenim un mērķiem"
+    },
+
+    "whyMeSection": {
+        "whyMeHeading": "Kāpēc es?",
+        "whyMeRowOne": "Individuāla pieeja katram studentam",
+        "whyMeRowTwo": "Dažādi mācību materiāli, ieskaitot manas paša izveidotās resursus",
+        "whyMeRowThree": "Pacietība, atbalsts un cieņpilna mācību vide",
+        "whyMeRowFour": "Nodarbības pielāgotas dažādiem mērķiem: pārvākšanās, ceļojumi, darbs, studijas",
+        "whyMeRowFive": "Viens skolotājs - gan valodām, gan mūzikai"
+    },
+
+    "learningProcessSection" : {
+        "learningProcessHeading": "Mācību process",
+        "learningProcessColumnOne": "Es piedāvāju ērtu un efektīvu formātu attālinātai (tiešsaistes) un klātienes mācībām mūzikā un svešvalodās. Lūk, kā mēs virzīsimies uz jūsu mērķiem:",
+        "learningProcessColumnTwo": "Pirmais solis – jūsu pieteikums: Vienkārši atstājiet savu pieteikumu šajā vietnē, un es noteikti sazināšos ar jums pēc iespējas ātrāk.",
+        "learningProcessColumnThree": "Otrais solis – mūsu pirmā tikšanās: Šīs tikšanās laikā mēs apspriedīsim jūsu mērķus, noteiksim mūsu nodarbību biežumu un vienosimies par nepieciešamajiem mācību materiāliem. Mēs arī apspriedīsim mūsu nodarbību izmaksas šajā tikšanās laikā.",
+        "learningProcessColumnFour": "Sagatavošanās nodarbībai – savlaicīga apmaksa: Lai nodrošinātu, ka mūsu nodarbība notiek pēc plāna, tās apmaksa jāveic ne vēlāk kā 24 stundas pirms plānotā laika. Lūdzu, iepriekš nosūtiet apmaksas apstiprinājumu.",
+        "learningProcessColumnFive": "Uz tikšanos nodarbībā! Pēc apmaksas apstiprinājuma saņemšanas mūsu pirmā nodarbība notiks.",
+        "learningProcessColumnSix": "Lūdzu, ņemiet vērā: Ja nodarbības apmaksa netiks saņemta 24 stundas pirms tās sākuma, diemžēl nodarbība tiks atcelta. Tas ir nepieciešams, lai es varētu pārvaldīt savu grafiku un nodrošināt labāko pieredzi visiem maniem studentiem.",
+        "learningProcessBottomText": "Gatavi veikt pirmo soli? Atstājiet savu pieteikumu tieši tagad!"
+    },
+
+    "contactMeSection": {
+        "contactMeHeader": "Sazināties ar mani",
+        "contactMeNameLabel": "Vārds:",
+        "contactMeEmailLabel": "E-pasts:",
+        "contactMeSubjectLabel": "Temats:",
+        "contactMeSubmitButton": "Iesniegt",
+        "textAreaPlaceholder": "Uzrakstiet savu ziņu šeit"
+    },
+
+    "footerSection": {
+        "footerHeader": "Kontakti"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "emailLang": "Емейл",
+    
+    "head": {
+        "topNav_courses": "Курсы",
+        "topNav__coursesLanguage": "Языки",
+        "topNav__coursesMusic": "Музыка",
+        "topNav__myApproach": "Мой Подход",
+        "topNav__aboutMe": "Обо Мне",
+        "topNav__FAQ": "FAQ",
+        "topNav__contactMe": "Обратная связь",
+        "hero__h4One": "Ваше учебное путешествие",
+        "hero__h4Two": "Музыкальные и языковые курсы",
+        "hero__apply": "Начать"
+    },
+
+    "introduction": {
+        "introduction__h2": "Добро пожаловать на LanaLingo",
+        "introduction__p": "Music and language courses offer a powerful way to expand both creativity and communication skills. Learning music sharpens listening, memory, and emotional expression, while studying a new language opens doors to different cultures and ways of thinking. Together, they build confidence, improve cognitive abilities, and create opportunities for personal and professional growth."
+    },
+
+    "offer": {
+        "offer__h2": "Что я предлагаю",
+        "offer__p": "At LanaLingo, I offer personalized music and language courses designed to meet your unique learning style and goals. Whether you're a beginner looking to explore a new language or an aspiring musician seeking to enhance your skills, my courses provide engaging and interactive lessons that foster creativity, confidence, and cultural understanding. Join me on this exciting journey of discovery and growth!"
+    },
+
+    "musicLangCards": {
+        "mlCards__musicH2": "Музыка",
+        "mlCards__musicP": "Learn the fundamentals of music theory and practice.",
+        "mlCards__languageH2": "Язык",
+        "mlCards__languageP": "Immerse yourself in a new language and culture."
+    },
+
+    "steps": {
+        "steps__h2": "Как начать",
+        "steps__cardOneP": "Create an account and choose your desired course.",
+        "steps__cardTwoP": "Receive customized lessons based on your goals and learning style.",
+        "steps__cardThreeP": "Engage in live sessions with me for real-time feedback and support."
+
+    },
+
+    "testimonial": {
+        "testimonial__h2": "Что говорят ученики"
+    },
+
+    "footer": {
+        "footer__home": "На верх"
+    },
+
+    "aboutMePage": {
+        "aboutMePage__H2": "Привет",
+        "aboutMePage__P1": "Я Лана, и я рада помогать студентам в их обучении языкам и музыке. Я преподаю немецкий, латышский и русский языки уже много лет, а также основы музыкального образования — теорию, сольфеджио и начальный фортепиано.",
+        "aboutMePage__P2": "В течение многих лет я имела удовольствие помогать ученикам всех возрастов и происхождений достигать успеха, независимо от их начального уровня. Я верю, что обучение работает лучше всего тогда, когда оно персонализировано — основывается на целях, интересах и стиле обучения каждого студента. Вместе мы находим инструменты и методы, которые делают обучение ясным, увлекательным и эффективным.",
+        "aboutMePage__P3": "Хотя у меня нет официального диплома по лингвистике, мои годы практического опыта и глубокое понимание предметов, которые я преподаю, позволяют мне быть поддерживающим и эффективным преподавателем. Я использую проверенные методы преподавания, адаптированные под современные нужды, чтобы сделать процесс актуальным и вдохновляющим.",
+        "aboutMePage__P4": "Я получила высшее образование в Германии, где также преподавала русский язык и музыку студентам-немцам. Этот опыт углубил моё признание в межкультурной коммуникации и личном взаимодействии в образовании."
+    }
+
+
+}

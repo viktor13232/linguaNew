@@ -1,0 +1,63 @@
+{
+    "emailLang": "E-Mail",
+    
+    "heroSection": {
+        "heroApply": "Bewerben",
+        "heroCredo": "Ihre Lernreise"
+    },
+
+    "topNavSection": {
+        "topNavAboutMe": "Über mich",
+        "topNavMyApproach": "Mein Ansatz",
+        "topNavWhyMe": "Warum ich",
+        "topNavLearningProcess": "Der Lernprozess",
+        "topNavContactMe": "Kontaktieren Sie mich"
+                    },
+    
+    "aboutMeSection": {
+        "aboutMeHi": "Hallo!",
+        "aboutMeColumnOne": "Ich bin Lana, und ich freue mich, Schüler auf ihrer Reise des Sprachen- und Musiklernens zu begleiten. Ich unterrichte seit vielen Jahren Deutsch, Lettisch und Russisch sowie die Grundlagen der Musikerziehung — Theorie, Solfeggio und Anfängerklavier.",
+        "aboutMeColumnTwo": "Im Laufe der Jahre hatte ich das Vergnügen, Lernenden jeden Alters und Hintergrunds zum Erfolg zu verhelfen, unabhängig von ihrem Ausgangspunkt. Ich glaube, dass Lernen am besten funktioniert, wenn es personalisiert ist — basierend auf den Zielen, Interessen und Lernstilen jedes Schülers. Gemeinsam finden wir die Werkzeuge und Methoden, die das Lernen klar, ansprechend und effektiv machen.",
+        "aboutMeColumnThree": "Obwohl ich keinen formalen Abschluss in Linguistik habe, ermöglichen mir meine jahrelange praktische Erfahrung und mein tiefes Verständnis der Fächer, die ich unterrichte, ein unterstützender und effektiver Tutor zu sein. Ich verwende bewährte Lehrmethoden, die auf moderne Bedürfnisse zugeschnitten sind, um den Prozess relevant und inspirierend zu gestalten.",
+        "aboutMeColumnFour": "Ich habe meine höhere Bildung in Deutschland erworben, wo ich auch Russisch und Musik für deutsche Studenten unterrichtet habe. Diese Erfahrung vertiefte meine Wertschätzung für interkulturelle Kommunikation und persönliche Verbindung in der Bildung."
+    },
+
+    "myApproachSection": {
+        "myApproachHeading": "Mein Ansatz",
+        "myApproachColumnOne": "Ein personalisierter Lernplan - von der ersten Begegnung bis zu überzeugenden Ergebnissen",
+        "myApproachColumnTwo": "Einzelunterricht, der auf das Niveau und die Ziele jedes Schülers zugeschnitten ist"
+    },
+
+    "whyMeSection": {
+        "whyMeHeading": "Warum ich?",
+        "whyMeRowOne": "Individueller Ansatz für jeden Schüler",
+        "whyMeRowTwo": "Eine Vielzahl von Lehrmaterialien, einschließlich meiner eigenen Ressourcen",
+        "whyMeRowThree": "Geduld, Ermutigung und ein respektvoller Lernraum",
+        "whyMeRowFour": "Unterricht angepasst an verschiedene Ziele: Umzug, Reisen, Arbeit, Studium",
+        "whyMeRowFive": "Ein Tutor - für Sprachen und Musik"
+    },
+
+    "learningProcessSection" : {
+        "learningProcessHeading": "Der Lernprozess",
+        "learningProcessColumnOne": "Ich biete ein bequemes und effektives Format für Fern- (Online-) und Präsenzunterricht in Musik und Fremdsprachen an. So werden wir auf Ihre Ziele hinarbeiten:",
+        "learningProcessColumnTwo": "Der erste Schritt – Ihre Bewerbung: Hinterlassen Sie einfach Ihre Anfrage auf dieser Website, und ich werde mich so schnell wie möglich mit Ihnen in Verbindung setzen.",
+        "learningProcessColumnThree": "Der zweite Schritt – unser erstes Treffen: Während dieses Treffens besprechen wir Ihre Ziele, bestimmen die Häufigkeit unserer Lektionen und vereinbaren die notwendigen Lernmaterialien. Wir werden auch die Kosten unserer Lektionen bei diesem Treffen besprechen.",
+        "learningProcessColumnFour": "Vorbereitung auf die Lektion – rechtzeitige Zahlung: Um sicherzustellen, dass unsere Lektion wie geplant verläuft, muss die Zahlung dafür spätestens 24 Stunden vor der geplanten Zeit erfolgen. Bitte senden Sie die Zahlungsbestätigung im Voraus.",
+        "learningProcessColumnFive": "Bis zum Unterricht! Nach Erhalt der Zahlungsbestätigung findet unsere erste Lektion statt.",
+        "learningProcessColumnSix": "Bitte beachten Sie: Wenn die Zahlung für die Lektion nicht 24 Stunden vor Beginn eingeht, wird die Lektion leider abgesagt. Dies ist notwendig, damit ich meinen Zeitplan verwalten und die beste Erfahrung für alle meine Schüler bieten kann.",
+        "learningProcessBottomText": "Bereit, den ersten Schritt zu machen? Hinterlassen Sie jetzt Ihre Bewerbung!"
+    },
+
+    "contactMeSection": {
+        "contactMeHeader": "Kontaktieren Sie mich",
+        "contactMeNameLabel": "Name:",
+        "contactMeEmailLabel": "E-Mail:",
+        "contactMeSubjectLabel": "Betreff:",
+        "contactMeSubmitButton": "Senden",
+        "textAreaPlaceholder": "Schreiben Sie hier Ihre Nachricht"
+    },
+
+    "footerSection": {
+        "footerHeader": "Kontaktdaten"
+    }
+}
