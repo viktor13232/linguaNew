@@ -52,6 +52,10 @@
     width: 50%;
 }
 
+.musicPageContaner__imgContainer, .languagePageContainer>div {
+    overflow: hidden;
+}
+
 .musicPageContaner__imgContainer>img, .languagePageContainer>div>img {
     border-radius: 5px;
     width: 100%;
@@ -80,12 +84,22 @@
 
 @media screen and (max-width: 500px) {
 
+    .aboutMePage__container>img {
+        min-height: auto;
+        width: 100%;
+    }
+
     .musicPageContaner__text>h2, .languagePageContainer__text>h2 {
         width: 100%;
     }
 
     .musicPageContaner>div, .languagePageContainer>div {
         width: 100%;
+    }
+
+    .musicPageContaner__text, .languagePageContainer__text {
+    padding: 2rem 2rem;
+    margin: 1rem 0;
     }
 }
 
@@ -142,6 +156,10 @@
         line-height: 1.625rem;
 }
 
+.myApproachPage__imgContainer {
+    overflow: hidden;
+}
+
 .myApproachPage__imgContainer>img {
     object-fit: contain;
     width: 100%;
@@ -174,8 +192,8 @@
 
     .myApproachPage__imgContainer>img {
         rotate: 90deg;
-        margin-top: -16rem;
-        margin-bottom: -10rem;
+        margin-top: -10rem;
+        margin-bottom: -6rem;
     }
 
 }
